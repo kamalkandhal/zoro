@@ -11,8 +11,8 @@ const Footer = () => {
           </Box>
           <VStack alignItems={"flex-start"}>
             <Text mb={"5px"} fontWeight={"bold"}>Contact Detail</Text>
-            <Text>Phone : 7206959771</Text>
-            <Text>Gmail : kamalkandhal44@gmail.com</Text>
+            <Text>Phone : ********** </Text>
+            <Text>Gmail :***********************</Text>
           </VStack>
         </HStack>
         <Text ml={"80px"} fontSize={"2xs"} color={"grey"}>
